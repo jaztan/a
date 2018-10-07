@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfTeleton", "WcfTeleton\WcfTeleton.csproj", "{A7C17246-239C-4774-B1DA-EB225D4CE2A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C17246-239C-4774-B1DA-EB225D4CE2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C17246-239C-4774-B1DA-EB225D4CE2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C17246-239C-4774-B1DA-EB225D4CE2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C17246-239C-4774-B1DA-EB225D4CE2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453F9D6D-34F2-4A8C-92CE-9CF6B3DB619E}
+	EndGlobalSection
+EndGlobal
